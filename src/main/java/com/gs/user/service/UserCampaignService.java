@@ -20,7 +20,7 @@ import com.gs.user.service.dto.CampaignDTO;
 @Service
 public class UserCampaignService {
 
-    private static final String CAMPAIGN_API_ENDPONT = "https://cryptic-river-18159.herokuapp.com/api/campaigns/team/";
+    private static final String CAMPAIGN_API_ENDPONT = "http://localhost:8090/api/campaigns/team/";
     
     private UserCampaignRepository userCampaignRepository;
     
