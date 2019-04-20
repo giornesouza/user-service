@@ -1,4 +1,4 @@
-# user-service
+# user-service (used for a test)
 
 ## O que foi utilizado
 * Java 8 
